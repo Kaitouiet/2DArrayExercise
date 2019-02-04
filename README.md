@@ -1,2 +1,2 @@
 # 2DArrayExercise
-Multiplication Table using 2D arrays, still needs improvement in formatting
+Multiplication Table using 2D arrays
